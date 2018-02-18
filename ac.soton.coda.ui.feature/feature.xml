@@ -28,7 +28,7 @@
    </copyright>
 
    <url>
-      <update label="%updateSiteName" url="file://CODA.local"/>
+      <update label="%updateSiteName" url="http://rodin-b-sharp.sourceforge.net/updates"/>
    </url>
 
    <requires>
