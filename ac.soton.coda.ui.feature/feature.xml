@@ -13,7 +13,7 @@
 <feature
       id="ac.soton.coda.ui.feature"
       label="%featureName"
-      version="0.1.0.qualifier"
+      version="0.1.0.release"
       provider-name="%featureVendor"
       plugin="ac.soton.coda.ui.branding"
       license-feature="ac.soton.coda.licence"
